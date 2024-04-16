@@ -10,7 +10,6 @@ void natureNum(int numM, int numN)
     Console.WriteLine($"{numN} ");
 }
 
-
 Console.WriteLine("Введите натуральное число M");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите натуральное число N, которое больше M");

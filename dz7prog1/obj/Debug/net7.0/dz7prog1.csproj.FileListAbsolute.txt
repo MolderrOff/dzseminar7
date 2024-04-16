@@ -1,0 +1,14 @@
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\bin\Debug\net7.0\dz7prog1.exe
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\bin\Debug\net7.0\dz7prog1.deps.json
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\bin\Debug\net7.0\dz7prog1.runtimeconfig.json
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\bin\Debug\net7.0\dz7prog1.dll
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\bin\Debug\net7.0\dz7prog1.pdb
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.AssemblyInfoInputs.cache
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.AssemblyInfo.cs
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.csproj.CoreCompileInputs.cache
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.dll
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\refint\dz7prog1.dll
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.pdb
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\dz7prog1.genruntimeconfig.cache
+C:\VSCode\01_CSHARP\SEMINARS\dzseminar7\dz7prog1\obj\Debug\net7.0\ref\dz7prog1.dll
